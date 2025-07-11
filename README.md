@@ -18,5 +18,5 @@ Once the file is extracted, The Cyclone tool exe can be used for utilization, th
 6) calculate the correct radial velocity in an event the velocity is folded (Applicable only for the first folding)
    <img width="595" height="627" alt="image" src="https://github.com/user-attachments/assets/07aa1673-cf47-4b39-8566-15ae37f36244" />
 
-For any queries, you may contact prayek.sandepogu@gmail.com
+For any queries, you may contact gskpavan@gmail.com and prayek.sandepogu@gmail.com
 
